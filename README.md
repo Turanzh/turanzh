@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQGqHgFXaxawCA/profile-displaybackgroundimage-shrink_350_1400/B4EZjXUFw2GcAY-/0/1755959026446?e=1758758400&v=beta&t=L0kHfvLZ4IppY1E_S_LJb0CT3B4NvCAT93wCCozr94A)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQHlVJSDYrEdwg/profile-displaybackgroundimage-shrink_350_1400/B4EZjXZ1gSIMAY-/0/1755960538603?e=1759363200&v=beta&t=YlBiV_Tlzb76A05rlYwrBT3S-8wZ-2iQXfg0cOeYl10)
 
 
 <h1 align="center">Hi 👋, I'm Turan Hikmatgizi!</h1>
