@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQHlVJSDYrEdwg/profile-displaybackgroundimage-shrink_350_1400/B4EZjXZ1gSIMAY-/0/1755960538603?e=1759363200&v=beta&t=YlBiV_Tlzb76A05rlYwrBT3S-8wZ-2iQXfg0cOeYl10)
+
 
 
 <h1 align="center">Hi 👋, I'm Turan Hikmatgizi!</h1>
