@@ -6,11 +6,8 @@
 
 - 🌱 I’m currently learning **data analysis in different areas**
 
-- 💬 Ask me about **data analytics**
-
 - 📫 How to reach me **turanhikmatqizi@gmail.com**
 
-- ⚡ Fun fact **I have a inquisitive spirit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
